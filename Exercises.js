@@ -41,3 +41,7 @@ async function api(word) { // Async function to use fetch
 // Test
 var word = "hannah";
 api(word); // true
+
+/* ############################################################################### */
+
+/* #### Exercise 3 #### */
